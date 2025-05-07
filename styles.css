@@ -293,7 +293,8 @@ nav {
 
 .project__description--title,
 .project__description--sub-title,
-.project__description--para {
+.project__description--para,
+.project__description--link {
   text-align: left;
   color: #fff;
 }
